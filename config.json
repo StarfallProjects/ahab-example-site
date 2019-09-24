@@ -1,5 +1,5 @@
 {
-    "baseURL": "https://starfallprojects.github.io/ahab-example-site/",
+    "baseURL": "https://starfallprojects.github.io/ahab-example-site",
     "buildDir": "docs",
     "defaultSnippets": {
         "start": "head",
