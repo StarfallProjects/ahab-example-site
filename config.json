@@ -1,0 +1,8 @@
+{
+    "baseURL": "https://example.com",
+    "buildDir": "docs",
+    "defaultSnippets": {
+        "start": "head",
+        "end": "footer"
+    }
+}
